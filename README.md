@@ -59,7 +59,7 @@ I have worked with various technologies, both on the front-end and back-end, and
 <a href="https://wordpress.org/" target="_blank"><img align="left" alt="Wordpress" height ="42px" src="https://www.svgrepo.com/download/12244/wordpress-logo.svg"></a>
 <a href="https://www.selenium.dev/" target="_blank"><img align="left" alt="Selenium" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950"></a>
 <a href="https://hibernate.org/" target="_blank"><img align="left" alt="Hibernate" height ="42px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></a>
-<br>
+<br/>
 
 ## 🏅 My GitHub Stats:
 <div align="center">
