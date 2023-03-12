@@ -24,8 +24,8 @@ I have worked with various technologies, both on the front-end and back-end, and
 - 🤝 &nbsp; I’m looking to collaborate on [...](https://github.com/mateusneresrb)
 - 📘 &nbsp; I am studying computer science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusneresrb?tab=repositories)
-- 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) 
+- 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/mateusneresrb/)
+- 📝 &nbsp; Checkout my [resume](https://github.com/mateusneresrb) 
 - 📫 &nbsp; How to reach me: [contato@mateusneres.dev](contato@mateusneres.dev)
 <br>
 
