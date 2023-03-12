@@ -1,5 +1,5 @@
 <!-- Language selector -->
-<a href="https://pt.wikipedia.org/wiki/Brasil"><img src="https://vetores.org/d/bandeira-do-brasil.svg" alt="Bandeira do Brasil" width="26" height="26" align="right"></a>
+<a href="https://github.com/mateusneresrb/mateusneresrb/blob/main/README-PT.md"><img src="https://vetores.org/d/bandeira-do-brasil.svg" alt="Bandeira do Brasil" width="26" height="26" align="right"></a>
 <a href="https://github.com/mateusneresrb/mateusneresrb"><img src="https://vetores.org/d/bandeira-estados-unidos.svg" alt="Bandeira dos Estados Unidos" width="26" height="26" style="border-bottom: 1px solid red;line" align="right"></a>
 ## Hey 👋, I'm [Mateus Neres!](https://github.com/mateusneresrb)
   
