@@ -26,7 +26,7 @@ I have worked with various technologies, both on the front-end and back-end, and
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusneresrb?tab=repositories)
 - 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/mateusneresrb/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/mateusneresrb) 
-- 📫 &nbsp; How to reach me: [contato@mateusneres.dev](contato@mateusneres.dev)
+- 📫 &nbsp; How to reach me: [contato@mateusneres.dev](mailto:contato@mateusneres.dev)
 <br>
 
 ## 🔨 Languages and Tools:
