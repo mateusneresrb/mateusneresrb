@@ -30,6 +30,7 @@ I have worked with various technologies, both on the front-end and back-end, and
 <br>
 
 ## 🔨 Languages and Tools:
+<div>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"></a>
 <a href="https://learn.microsoft.com/en/cpp/cpp" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
@@ -59,7 +60,7 @@ I have worked with various technologies, both on the front-end and back-end, and
 <a href="https://wordpress.org/" target="_blank"><img align="left" alt="Wordpress" height ="42px" src="https://www.svgrepo.com/download/12244/wordpress-logo.svg"></a>
 <a href="https://www.selenium.dev/" target="_blank"><img align="left" alt="Selenium" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950"></a>
 <a href="https://hibernate.org/" target="_blank"><img align="left" alt="Hibernate" height ="42px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></a>
-<br/>
+</div>
 
 ## 🏅 My GitHub Stats:
 <div align="center">
