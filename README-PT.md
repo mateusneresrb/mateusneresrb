@@ -21,11 +21,11 @@ Tenho trabalhado com várias tecnologias, tanto no front-end como no back-end, e
 ### 📝 More About Me:
 
 - 🛠️ &nbsp; Estou trabalhando com Java, Spring, etc..
-- 🤝 &nbsp; Estou colaborando no projeto  [...](https://github.com/mateusneresrb)
+- 🤝 &nbsp; Estou colaborando no projeto  [PixPayView](https://github.com/mateusneresrb/pixpayview-backend)
 - 📘 &nbsp; Sou estudante do curso ciência da computação
 - 👨🏻‍💻 &nbsp; Veja meus projetos disponiveis no [Github](https://github.com/mateusneresrb?tab=repositories)
 - 📫 &nbsp; Conecte-se comigo no   [LinkedIn](https://www.linkedin.com/in/mateusneresrb/)
-- 📝 &nbsp; Veja o meu currículo [resume](https://github.com/mateusneresrb) 
+- 📝 &nbsp; Veja o meu currículo [resume](https://drive.google.com/file/d/1ZSiiGU23k5I3ntLGneB4SWYORBWxcBCQ/view) 
 - 📫 &nbsp; Email para contato: [contato@mateusneres.dev](mailto:contato@mateusneres.dev)
 <br>
 
