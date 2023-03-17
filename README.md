@@ -21,7 +21,7 @@ I have worked with various technologies, both on the front-end and back-end, and
 ### 📝 More About Me:
 
 - 🛠️ &nbsp; I’m currently working on Java, Spring, etc..
-- 🤝 &nbsp; I’m looking to collaborate on [...](https://github.com/mateusneresrb)
+- 🤝 &nbsp; I’m looking to collaborate on [PixPayView](https://github.com/mateusneresrb/pixpayview-backend)
 - 📘 &nbsp; I am studying computer science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusneresrb?tab=repositories)
 - 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/mateusneresrb/)
