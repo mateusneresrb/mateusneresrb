@@ -62,11 +62,6 @@ I have worked with various technologies, both on the front-end and back-end, and
 
 ## 🏅 My GitHub Stats:
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mateusneresrb&theme=dark)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusneresrb&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusneresrb&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
 </div>
